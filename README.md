@@ -1,4 +1,5 @@
 # Computer-Graphics (2017)
+Implemented a simulation of the RSA algorithm as part of my undergraduate coursework.
 
 LIBRARY FILES: OpenGL files-glut32.h, glut.dll  
 SOFTWARE USED: Microsoft Visual Studio 2015
