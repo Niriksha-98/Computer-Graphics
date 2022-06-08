@@ -1,4 +1,4 @@
-# Computer-Graphics
+# Computer-Graphics (2017)
 
 LIBRARY FILES: OpenGL files-glut32.h, glut.dll  
 SOFTWARE USED: Microsoft Visual Studio 2015
