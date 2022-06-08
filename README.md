@@ -27,7 +27,7 @@ Extracts the plaintext from the message representative m.
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/101902620/172510393-e89dbf31-b8cf-42dc-a3eb-7a56fc608283.png">
 
 **Results**
-![image](https://user-images.githubusercontent.com/101902620/172510109-b5629e82-356b-4442-ba24-172f0487a375.png)
+
 ![image](https://user-images.githubusercontent.com/101902620/172510137-016a428f-98b6-408e-a25d-63b831571d44.png)
 ![image](https://user-images.githubusercontent.com/101902620/172510149-3f10c582-d406-4ed9-a74e-b46b862afe4d.png)
 ![image](https://user-images.githubusercontent.com/101902620/172510186-9a3e0e78-b855-4208-becd-208f3f4cf4e5.png)
